@@ -32,7 +32,7 @@ public class lab5 {
 
     public static void main(String[] args) {
         String S1, S2;
-        prg5 obj = new prg5();
+        lab5 obj = new lab5();
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter a string: ");
